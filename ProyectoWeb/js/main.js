@@ -1,0 +1,1 @@
+console.log("Sitio IKEA-style cargado correctamente.");
